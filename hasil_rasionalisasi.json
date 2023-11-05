@@ -1,0 +1,46 @@
+{
+    "hasil": [
+        {
+            "idHasil": 1,
+            "idUser": 1,
+            "nameUser": "Muhammad Dastin Fauzi",
+            "kampusTujuan": "ITB",
+            "nilaiMatW": 100,
+            "nilaiMatM": 100,
+            "nilaiFis": 100,
+            "nilaiKim": 100,
+            "nilaiBio": 100,
+            "nilaiInd": 100,
+            "nilaiIng": 100,
+            "hasilRasionalisasi": "Anda berpeluang LULUS ITB pada SNMPTN ITB 2024."
+        },
+        {
+            "idHasil": 2,
+            "idUser": 2,
+            "nameUser": "Hafidz Shidqi",
+            "kampusTujuan": "UI",
+            "nilaiMatW": 90,
+            "nilaiMatM": 90,
+            "nilaiFis": 90,
+            "nilaiKim": 90,
+            "nilaiBio": 90,
+            "nilaiInd": 90,
+            "nilaiIng": 90,
+            "hasilRasionalisasi": "Anda berpeluang LULUS UI pada SNMPTN ITB 2024."
+        },
+        {
+            "idHasil": 3,
+            "idUser": 2,
+            "nameUser": "Hafidz Shidqi",
+            "kampusTujuan": "UGM",
+            "nilaiMatW": 80,
+            "nilaiMatM": 80,
+            "nilaiFis": 80,
+            "nilaiKim": 80,
+            "nilaiBio": 80,
+            "nilaiInd": 80,
+            "nilaiIng": 80,
+            "hasilRasionalisasi": "Anda berpeluang TIDAK LULUS UGM pada SNMPTN ITB 2024."
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "user": [
+        {
+            "idUser": 1,
+            "userName": "muhdastinf"
+        },
+        {
+            "idUser": 2,
+            "userName": "hafidzshidqi"
+        },
+        {
+            "idUser": 3,
+            "userName": "syafiqza"
+        },
+        {
+            "idUser": 4,
+            "userName": "ghaylanm"
+        },
+        {
+            "idUser": 5,
+            "userName": "hilmibaskara"
+        },
+        {
+            "idUser": 6,
+            "userName": "carissatabina"
+        },
+        {
+            "idUser": 7,
+            "userName": "ceavin_rufus"
+        },
+        {
+            "idUser": 8,
+            "userName": "fakhripm"
+        },
+        {
+            "idUser": 9,
+            "userName": "daniellec"
+        },
+        {
+            "idUser": 10,
+            "userName": "taraC"
+        }
+    ]
+}
