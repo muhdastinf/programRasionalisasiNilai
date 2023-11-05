@@ -1,6 +1,15 @@
 # Tugas TST - Program Rasionalisasi Nilai
 ### by Muhammad Dastin Fauzi - 18221062
 
+#### Pendahuluan
+Program rasionalisasi nilai merupakan program API yang digunakan untuk memprediksi apakah nilai dari seorang memenuhi kriteria untuk masuk atau berhasil dalam suatu tes masuk. Pada program ini, hanya diperuntukan untuk rasionalisasi nilai SNMPTN dengan cakupan pada bidang Saintek dan terbatas pada pilihan kampus ITB/UI/UGM. Prediksi yang dilakukan didasarkan atas mock database yang berisi nilai-nilai dari pelajaran yang terkait dengan status keberhasilan dalam angka 1 dan 0 jika gagal. Mock dataset telah disesuaikan oleh penulis sehingga tidak ada data yang outlier. Dalam prediksi kelulusan, program ini dilengkapi oleh machine learning dengan model RandomForestClassifier dikarenakan tidak memerlukan normalisasi data atau penghapusan outliers.
+
+Library yang digunakan yaitu
+- fastapi
+- uvicorn
+- pandas
+- scikit-learn
+
 #### Cara Run Via Virtual Enviroment (venv) Python -- Windows
 1. Pull repository ini ke dalam local folder
 2. Buka terminal di VS Code atau via command prompt bisa
