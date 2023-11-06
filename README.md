@@ -1,7 +1,7 @@
 # Tugas TST - Microservice Deployment: Program Rasionalisasi Nilai
 ## by Muhammad Dastin Fauzi - 18221062
 ### [FastAPI-Rasionalisasi-Nilai-via-FQDN](http://tugaststcorerasionalisasi.f4d0ezdmbgb7c9bb.southeastasia.azurecontainer.io/docs#/)
-### [fastAPI-Rasionalisasi-Nilai-via-IP_Address_Public](http://20.247.227.210/docs)
+### [FastAPI-Rasionalisasi-Nilai-via-IP_Address_Public](http://20.247.227.210/docs)
 
 ### Pendahuluan
 Program rasionalisasi nilai merupakan program API yang digunakan untuk memprediksi apakah nilai dari seorang memenuhi kriteria untuk masuk atau berhasil dalam suatu tes masuk. Pada program ini, hanya diperuntukan untuk rasionalisasi nilai SNMPTN dengan cakupan pada bidang Saintek dan terbatas pada pilihan kampus ITB/UI/UGM. Prediksi yang dilakukan didasarkan atas mock database yang berisi nilai-nilai dari pelajaran yang terkait dengan status keberhasilan dalam angka 1 dan 0 jika gagal. Mock dataset telah disesuaikan oleh penulis sehingga tidak ada data yang outlier. Dalam prediksi kelulusan, program ini dilengkapi oleh machine learning dengan model RandomForestClassifier dikarenakan tidak memerlukan normalisasi data atau penghapusan outliers.
